@@ -13,7 +13,11 @@ I enjoy building projects that combine **object-oriented design, data analysis, 
 
 ## 📂 Projects
 - **[Assembly Line Simulation (C++)](https://github.com/dliu84/Assembly-Line-Simulation)**  
-  Simulated an assembly line with multiple workstations processing customer orders using OOP and STL.  
+  Simulated an assembly line with multiple workstations processing customer orders using OOP and STL.
+- **[Python-Board-Game (Python)](https://github.com/dliu84/Python-Board-Game)**
+  2D board game implemented in Python using pygame
+- **[Hotel-Reservation-System (Java)](https://github.com/dliu84/Hotel-Reservation-System)**
+  Implemented a computerized Hotel Reservation System that allows hotel staff to quickly manage reservations, maintain secure records, and provide a smooth booking and billing experience for guests.
 - **[StockApp (Swift)](https://github.com/dliu84/StockApp-iOS-Application)**  
   iOS app for monitoring and ranking stocks with CoreData and real-time updates.
 - **[fragments (JavaScript)](https://github.com/dliu84/fragments)**
@@ -22,8 +26,7 @@ I enjoy building projects that combine **object-oriented design, data analysis, 
   Designed to automatically detect and read license plates from images or videos.
 - **[DevFusion-iOS-Android (JavaScript)](https://github.com/dliu84/DevFusion-iOS-Android)**
   User-friendly learning application designed to enhance the educational experience.
-- **[Hotel-Reservation-System (Java)](https://github.com/dliu84/Hotel-Reservation-System)**
-  Implemented a computerized Hotel Reservation System that allows hotel staff to quickly manage reservations, maintain secure records, and provide a smooth booking and billing experience for guests.
+
 
 
 ## 📫 Connect with Me
