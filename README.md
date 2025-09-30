@@ -30,7 +30,7 @@ I enjoy building projects that combine **object-oriented design, data analysis, 
 - [LinkedIn](https://www.linkedin.com/in/di-liu-b4463256)  
 - [GitHub](https://github.com/dliu84)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dliu84&show_icons=true&theme=radical)
+![Di's GitHub stats](https://github-readme-stats.vercel.app/api?username=dliu84&show_icons=true&theme=radical)
 
 <!--
 **dliu84/dliu84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
